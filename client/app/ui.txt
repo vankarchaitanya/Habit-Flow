@@ -1,0 +1,3 @@
+Primary Color : #219ebc
+Accent Color: #fb8500
+Background Color : #0230407
